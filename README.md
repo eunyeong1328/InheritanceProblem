@@ -1,5 +1,4 @@
 # InheritanceProblem
-# Inheritance
 
 ## 과제
 
